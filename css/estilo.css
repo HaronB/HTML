@@ -1,0 +1,51 @@
+   body {   
+        margin: 10%;
+		background: center;
+		background-size: cover;
+	    background-image:url("../css/imagens/fundo.jpg");
+	    text-align:center;	
+		
+	}
+	
+	#pag {
+	    width:1024px;
+		margin-top:20px;
+		margin:0 auto;
+	}
+		
+	#logo {
+	    width: 150px;
+		height: 180px;
+		float: left;
+		background-image: url(../css/imagens/logo.jpg);
+		background-repeat: round;
+		}
+		 
+   #banner {
+	    width: 1064px;
+		height: 180px;
+		text-align: center;
+		background:#38654B;	
+	} 
+	
+	#menu {
+		     width: 1064px;
+		 height: 30px;
+		text-align: center;
+		background:#BDBDBD;	 
+	}
+
+	#conteudo {
+	     width: 1064px;
+		 height: 300px;		
+		text-align: center;
+		 background: rgb(99,218,203, 0.6);	
+	}
+	
+	#rodape {
+	     width: 1064px;
+		 height:45px;
+		float: center;
+		 background:#222222;
+	}
+		
